@@ -1,0 +1,3 @@
+PyAudio==0.2.11
+selenium==3.141.0
+SpeechRecognition==3.8.1
